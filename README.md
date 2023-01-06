@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -6,6 +6,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+-->
 
 ## 💫 About Me:
 😄 Pronouns: He/His<br>🔭 I’m currently working as Backend Developer.<br>🌱 I’m currently learning more about DSA.<br>🤔 I’m looking for help with for to increase productivity.<br>💬 Ask me about Spring or any tech-related stuff.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I spend almost hours listening to songs every day.
@@ -21,8 +22,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prudhvi-Teja&theme=flag-india&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prudhvi-Teja&theme=flag-india&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<!--
 # Leetcode Stats:
 ![](https://leetcode.card.workers.dev/Prudhvi_Teja?theme=auto&font=source_code_pro&extension=null)
+-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prudhvi-Teja&theme=radical&no-frame=false&no-bg=false&margin-w=4)
