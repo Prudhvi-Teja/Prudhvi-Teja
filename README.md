@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prudhvi-Teja&theme=flag-india&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prudhvi-Teja&theme=flag-india&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+# Leetcode
+![](https://leetcard.Prudhvi_Teja/Prudhvi_Teja?animation=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prudhvi-Teja&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
