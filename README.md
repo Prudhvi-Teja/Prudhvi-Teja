@@ -9,7 +9,7 @@
 -->
 
 ## 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently working as Backend Developer.<br>🌱 I’m currently learning more about DSA.<br>🤔 I’m looking for help with for to increase productivity.<br>💬 Ask me about Spring or any tech-related stuff.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I spend almost hours listening to songs every day.
+😄 Pronouns: He/His<br>🔭 I’m currently working as Backend Developer.<br>🌱 I’m currently learning more about Spring.<br>🤔 I’m looking for help with for to increase productivity.<br>💬 Ask me about Spring or any tech-related stuff.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I spend almost hours listening to songs every day.
 
 
 ## 🌐 Socials:
